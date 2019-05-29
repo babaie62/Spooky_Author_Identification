@@ -1,7 +1,14 @@
 # Spooky_Author_Identification
 تشخیص نویسنده ی یک متن با استفاده از یادگیری ماشین و با استفاده از  ترکیب طبقه بندها ی پایه
-https://www.kaggle.com/c/spooky-author-identification/overview
+https://www.kaggle.com/c/spooky-author-identification/overview 
+
+
+
+
+
 روش کار :
+
+
 1- پاکسازی داده 
 2- تهیه ورودی برای الگوریتم های پایه با استفاده از BWO_binary & BOW & TFIDF
 3- انتخاب الگوریتم های  پایه و ساخت 100 طبقه بند با استفاده از هر تاگوریتم	
