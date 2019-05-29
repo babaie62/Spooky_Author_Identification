@@ -1,5 +1,7 @@
 # Spooky_Author_Identification
 تشخیص نویسنده ی یک متن با استفاده از یادگیری ماشین و با استفاده از  ترکیب طبقه بندها ی پایه
+
+
 https://www.kaggle.com/c/spooky-author-identification/overview 
 
 
